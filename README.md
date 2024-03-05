@@ -2,6 +2,7 @@
 
 使用React Native, Expo, NativeWind and TypeScript构建的一个简单的demo程序，实现了
 Crypto的价格展示。
+
 ![App运行界面](images/image.png)
 
 
